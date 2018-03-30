@@ -2,7 +2,7 @@
 
 one:
   name: MyText
-  duracion: 2018-03-30 17:02:38
+  duration: 2018-03-30 17:24:02
   year: 2018-03-30
   rating: MyString
   description: MyString
@@ -10,7 +10,7 @@ one:
 
 two:
   name: MyText
-  duracion: 2018-03-30 17:02:38
+  duration: 2018-03-30 17:24:02
   year: 2018-03-30
   rating: MyString
   description: MyString
